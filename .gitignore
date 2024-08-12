@@ -1,0 +1,8 @@
+.env/
+.load
+.work
+config
+first.txt
+last.txt
+update_ip.sh
+
